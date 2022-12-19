@@ -1,0 +1,10 @@
+administrator
+guest
+test
+info
+admin
+user
+superuser
+superadmin
+root
+adm
